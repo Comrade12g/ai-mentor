@@ -1,0 +1,7 @@
+{
+  "name": "NextWave Mentor",
+  "description": "AI-powered entrepreneurial mentorship platform for African youth, featuring business generation, planning, and voice mentorship.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
